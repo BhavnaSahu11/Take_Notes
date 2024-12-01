@@ -20,14 +20,6 @@ Take Note is a Mini Spring Boot MVC Web Application.
 
 - MySQL
   
-  
-<h3>Others:</h3>
-
-- 3 Layer Architechture
-- Proper ER Diagram
-
-
-<hr>
 
 <h1>How to Run this Project:</h1>
 
